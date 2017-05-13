@@ -1,0 +1,23 @@
+---
+
+IrresponsibleModule:
+  enabled: false
+
+"app/controllers":
+  NestedIterators:
+    enabled: false
+"app/helpers":
+  UtilityFunction:
+    enabled: false
+"lib/errors":
+  DuplicateMethodCall:
+    enabled: false
+  TooManyStatements:
+    enabled: false
+"spec/support":
+  DuplicateMethodCall:
+    enabled: false
+
+exclude_paths:
+  - lib/legacy
+  - lib/rake/legacy_tasks
