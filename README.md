@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="starlord.jpg" alt="Starlord">
+</p>
+
+## Starlord
 
 A docker container with mostly everything you need to detect code smell in your ruby cody
 
